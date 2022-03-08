@@ -8,7 +8,7 @@ See menu !
 
 ## Screenshot
 
-|![](https://static.jam.vg/raw/d3f/d1/z/2671f.png)|
+|![](https://static.jam.vg/raw/c3f/d1/z/1bb46.png)|
 |-|
 
 ## Collaborators
