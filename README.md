@@ -13,9 +13,9 @@ See menu !
 
 ## Collaborators
 
-- [Simon FEUGEAS Linkouille](https://github.com/linkouille)
-- [Louis LEENART TheBoje](https://github.com/TheBoje)
-- [Vincent COMMIN Altimor](https://github.com/Altimors)
+- Simon FEUGEAS aka [Linkouille](https://github.com/linkouille)
+- Louis LEENART aka [TheBoje](https://github.com/TheBoje)
+- Vincent COMMIN aka [Altimor](https://github.com/Altimors)
 
 ## Build
 
